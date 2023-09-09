@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arqhabwalzthy
-- 👀 I’m interested in Web Devolopment
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning python
 - 📫 How to reach me Email : arqhabwalzthy16@gmail.com
 
 <!---
